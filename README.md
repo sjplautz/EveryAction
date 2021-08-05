@@ -9,8 +9,6 @@ Give the steps needed to deploy and run your code, written so that someone else 
     - Run python3 solution.py
 
 What could you do to improve your code for this project if you had more time? 
-Could you make it more efficient, easier to read, more maintainable? 
-If it were your job to run this report monthly using your code, could it be made easier or more flexible? 
     - I would include error handling for certain cases including empty results or error responses
     - I could add support for the $top parameter
 
